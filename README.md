@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Jaleh 👋
 
-<!--
-**jalehjk/jalehjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an MSc graduate in Artificial Intelligence & Data Analytics based in London.  
+I work on applied machine learning and explainable AI, mostly in:
 
-Here are some ideas to get you started:
+- 🩺 **Healthcare** – clinical risk prediction, EHR modelling
+- 💸 **Financial & operational decisions** – loan approval, process optimisation
+- ⚗️ **Pharma & R&D** – solubility prediction and experimental support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like problems where models have to be **reliable, interpretable, and actually used by people**.
+
+## 🔧 Tech
+
+- **Languages**: Python, SQL  
+- **ML**: scikit-learn, PyTorch, TensorFlow, XGBoost, feature engineering, model validation  
+- **XAI**: SHAP, LIME  
+- **LLMs / RAG**: LangChain + OpenAI, retrieval, basic evaluations  
+- **Tools**: Git, GitHub, VS Code, Jupyter/Colab, Matplotlib, Seaborn
+
+## 🧪 Selected Projects
+
+- **Diabetes Risk Prediction with XAI** – EHR data → ML & deep models (LSTM, CNN) → SHAP/LIME explanations for clinicians.
+- **Explainable Loan Approval with RAG** – XGBoost + SHAP + policy-grounded RAG to justify SME loan decisions.
+- **Solubility Prediction Demo** – ML model on public compound data, including feature importance and error analysis.
+- **Financial Process ML Prototype** – Baseline models on process/transaction data to highlight bottlenecks and anomalies.
+
+I’m currently looking for data science / AI roles in the UK & Europe.  
+📫 You can reach me via email or LinkedIn (both in my profile).
